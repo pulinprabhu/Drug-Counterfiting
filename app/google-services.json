@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312507994167",
+    "firebase_url": "https://login-drugcf.firebaseio.com",
+    "project_id": "login-drugcf",
+    "storage_bucket": "login-drugcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312507994167:android:9c607d63a698c0f7096fb2",
+        "android_client_info": {
+          "package_name": "com.example.drugcountf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312507994167-a2pnmrqull8jvtjnh9fp5e8pc862910l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjHeQkKh79oqFm97TaoomJJis7vQ7BF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312507994167-a2pnmrqull8jvtjnh9fp5e8pc862910l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
